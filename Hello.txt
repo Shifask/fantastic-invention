@@ -2,3 +2,9 @@ chaned
 Hello hi everyone
 alter1
 alter2
+$ git remeote add orirgin link-github
+$ git remote
+$ git push origin master
+$ git pull origin master
+new line added by master again
+new line added by bugfix again
