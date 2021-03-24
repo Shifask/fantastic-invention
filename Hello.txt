@@ -8,6 +8,7 @@ $ git push origin master
 $ git pull origin master
 new line added by master again
 new line added by bugfix again
-
 testing conflict
+
+new line to test conflict by bugfix branch
 
